@@ -113,3 +113,16 @@ p.text {
 p.text span {
     color: #6feaf6;
 }
+
+
+
+
+
+
+
+
+select {
+    padding: 5px;
+    text-align-last:center;
+    font-weight: 800;
+}
